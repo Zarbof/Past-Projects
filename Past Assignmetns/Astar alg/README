@@ -1,0 +1,1 @@
+This file uses a custom A* algorithm to find the shortest path between a start and a finish in a given map, based on real-world data.
