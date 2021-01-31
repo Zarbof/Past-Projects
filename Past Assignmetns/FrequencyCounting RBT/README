@@ -1,0 +1,4 @@
+This file takes a text file as input, counts the frequency of every word in the file. It then outputs the total number of distinct words, then allows the user to input a given word and returns if that word was found and if so, how many times it was used in the text. 
+As well as as a few extra commands to allow the user to find predecessor and succesor words in the red black tree
+
+This implementation uses a custom red black tree class to keep track of the words.
